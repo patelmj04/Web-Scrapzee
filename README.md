@@ -1,6 +1,9 @@
 # Web-Scrapzee
 All The Web Scrappin Tools Available in the market
 
+# Scrapers
+A list of scrapers from around the web.
+
 Find your way through with the [Table of Contents](#table-of-contents). It will showcase the entire list with easy navigate to their pros and cons while also providing links to their respective websites.
 
 Please contribute by adding links, adding pros/cons, titles, or anything else you think would be helpful!
