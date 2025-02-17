@@ -1,4 +1,4 @@
-# Web-Scrapzee
+# Web-Scrapzeee
 All The Web Scrappin Tools Available around the world
 
 # Scrapers
