@@ -1,5 +1,5 @@
 # Web-Scrapzeee
-All The Web Scrappin Tools Available around the world
+Here are all of the Web Scrappin Tools Available around the world
 
 # Scrapers
 A list of scrapers from around the web.
